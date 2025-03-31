@@ -284,7 +284,7 @@ export const projects = [
     description:
       "Designed and developed the CodeVerse project, app for final course presentation.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://codeverse-web.github.io/CodeVerse/cv.png.png",
     tags: [
       "React Js",
       "Javascript",
@@ -294,7 +294,7 @@ export const projects = [
     ],
     category: "web app",
     github: "",
-    webapp: "",
+    webapp: "https://codeverse-web.github.io/CodeVerse/",
   },
 
   {
